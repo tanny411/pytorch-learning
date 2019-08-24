@@ -1,4 +1,4 @@
-1. youtube pytorch for deep learning 'Deep lizard tutorial' (19/19 - incomplete) [done]
+1. youtube pytorch for deep learning 'Deep lizard tutorial' (13/19 - incomplete) [done]
 
 2. https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html [done]
 
